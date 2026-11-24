@@ -13,13 +13,13 @@ const socialLinks = [
     name: "LinkedIn",
     username: "Connect professionally",
     icon: FaLinkedin,
-    url: "https://www.linkedin.com/",
+    url: "linkedin.com/in/venkata-raghavendra-esapathi-97823a3a8",
   },
 ];
 
 export default function Contact() {
   // Replace this with your actual email address
-  const email = "YOUR_EMAIL@example.com";
+  const email = "";
 
   return (
     <section id="contact" className="contact-section">
